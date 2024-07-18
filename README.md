@@ -9,7 +9,7 @@ This project is an automation framework leveraging Jest and Selenium WebDriver t
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/js-jest-selenium.git
+    git clone https://https://github.com/Pomidorum1989/js-selenium-jest.git
     cd js-jest-selenium
     ```
 
